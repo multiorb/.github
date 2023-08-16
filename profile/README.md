@@ -1,6 +1,6 @@
 <div align="center">  
   <div align="center">
-      <img width="150" height="150" src="assets/logo-rounded.png" alt="Logo">
+      <img width="150" height="150" src="https://raw.githubusercontent.com/multiorb/.github/main/profile/assets/logo-rounded.png" alt="Logo">
   </div>
   
   <h1 align="center"><b>Multiorb</b></h1>
