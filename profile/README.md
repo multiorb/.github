@@ -7,7 +7,7 @@
   
   <div align="center">
     <p>
-      Accelerate your workflow. Ignite your passion.
+      Reduce cloud costs across multiple platforms.
     </p>
     <p>
       <a href="https://multiorb.net"><strong>〢multiorb.net</strong></a>
