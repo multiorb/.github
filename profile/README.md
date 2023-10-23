@@ -1,13 +1,13 @@
 <div align="center">  
   <div align="center">
-      <img width="150" height="150" src="https://raw.githubusercontent.com/multiorb/.github/main/profile/assets/logo-rounded.png" alt="Logo">
+      <img width="150" height="150" src="https://avatars.githubusercontent.com/u/113270835?s=200&v=4" alt="Logo">
   </div>
   
   <h1 align="center"><b>Multiorb</b></h1>
   
   <div align="center">
     <p>
-      Reduce cloud costs across multiple platforms.
+      Optimized Cloud Cost Intelligence.
     </p>
     <p>
       <a href="https://multiorb.net"><strong>〢multiorb.net</strong></a>
