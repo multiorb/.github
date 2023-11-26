@@ -7,7 +7,7 @@
   
   <div align="center">
     <p>
-      Optimized Cloud Cost Intelligence.
+      Building software systems for clients.
     </p>
     <p>
       <a href="https://multiorb.net"><strong>〢multiorb.net</strong></a>
